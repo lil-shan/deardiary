@@ -1,0 +1,5 @@
+# Create and open .gitignore
+echo ".env
+__pycache__/
+*.pyc
+.DS_Store" > .gitignore
